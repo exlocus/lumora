@@ -1,16 +1,10 @@
 {
   "news": [
     {
-      "thumbnailTitle": "Заголовок миниатюры",
-      "thumbnailDescription": "Краткое описание для миниатюры",
-      "title": "Полный заголовок новости",
-      "description": "Полное описание новости"
-    },
-    {
-      "thumbnailTitle": "Новое открытие в науке",
-      "thumbnailDescription": "Ученые сделали важное открытие",
-      "title": "Ученые открыли новый вид энергии",
-      "description": "Группа исследователей обнаружила способ извлечения энергии из окружающей среды, который может изменить мир."
+      "thumbnailTitle": "v0.0.1b - is out!",
+      "thumbnailDescription": "A new version of Lumor has been released! (Click to find out more.)",
+      "title": "v0.0.1b - is out!",
+      "description": "In the future, change logs will be displayed here, but for now there is nothing here, since this is the first version of the software."
     }
   ]
 }
